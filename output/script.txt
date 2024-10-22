@@ -1,0 +1,27 @@
+Báo cáo nội dung của file json
+
+1) METADATA
+- generated_at : Thời gian báo cáo được tạo
+- version: Phiên bản của hệ thống báo cáo
+
+
+2) Phân tích nội dung
+- Tần suất từ: 
+    + Đối với tiếng việt: các từ xuất hiện nhiều lần nhất trong bài viết là "Nam" (1952) ,"Việt" (1567), "Chiển"(1095),"Quân"(955)
+    + Đối với tiếng anh:  Các từ xuất hiện nhiều nhất trong bài viết là "Vietnam" (591 lần), "War" (487 lần), "US" (185 lần)
+- Phân tích cảm xúc :
+    + Đối với tiếng việt: Mức độ Polarity (tính tích cực) là 0.0161, và Subjectivity (tính chủ quan) là 0.3785.
+    + Đối với tiếng anh: Mức độ Polarity là 0.0459 và Subjectivity là 0.3632. Bài viết tiếng Anh có tính tích cực và khách quan hơn một chút so với bài tiếng Việt.
+- Độ dễ đọc:
+    + Đối với tiếng việt: Bài viết tiếng Việt có 2881 câu, 98053 từ, với độ dài trung bình của câu là 34.03 từ và từ có độ dài trung bình là 3.36 ký tự.
+    + Đối với tiếng anh: Bài viết tiếng Anh có 2901 câu, 43760 từ, với độ dài trung bình của câu là 15.08 từ và từ có độ dài trung bình là 4.32 ký tự.
+- Độ phức tạp:
+    + Đối với tiếng việt: Số lượng từ phức tạp là 4072 với tỷ lệ 0.0415 và chỉ số Gunning Fog là 15.27.
+    + Đối với tiếng anh: Số lượng từ phức tạp là 10666 với tỷ lệ 0.2437 và chỉ số Gunning Fog là 15.78.
+- Thực thể có tên:
+    + Đối với tiếng việt: Có 2225 thực thể được phát hiện
+    + Đối với tiếng anh : Có 3287 thực thể được phát hiện
+
+3)Phân tích cấu trúc
+- Bài viết tiếng Việt và tiếng Anh có cấu trúc rất khác biệt. Bài viết tiếng Việt có nhiều mục như "Chiến tranh Việt Nam", "Giai đoạn", và "Hậu quả chiến tranh", trong khi bài viết tiếng Anh có các phần như "Vietnam War", "Names", và "Aftermath".
+- Cả hai bài viết đều chứa nhiều liên kết nội bộ, như đến các trang liên quan về chiến tranh Việt Nam, các quốc gia, và các sự kiện lịch sử.
